@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:ital,wght@0,100..900;1,100..900&family=Reddit+Mono:wght@200..900&display=swap');
+body {
+	background-color: #a21616;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+    font-family: "Reddit Mono", monospace;
+}
+
+.container {
+	text-align: center;
+}
+
+.error-text {
+	font-size: 100px;
+	color: #ffffff;
+	margin-bottom: 0;
+}
+
+.message-text {
+	font-size: 24px;
+	color: #ffffff;
+}
