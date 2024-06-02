@@ -4,6 +4,8 @@
     font-family: "Reddit Mono", monospace;
     box-sizing: border-box;
     color: white;
+    outline: none;
+    scroll-behavior: smooth;
 }
 html{
     overflow-y: scroll;
@@ -18,8 +20,6 @@ body{
     color:white !important;
     padding: 0;
     margin: 0;
-    outline: none;
-    scroll-behavior: smooth;
 }
 ::-webkit-scrollbar {
     width: 8px;
