@@ -3,6 +3,8 @@
     transition: all 0.5s ease-in-out;
     font-family: "Reddit Mono", monospace;
     box-sizing: border-box;
+    outline: none;
+    scroll-behavior: smooth;
 }
 html{
     overflow-y: scroll;
